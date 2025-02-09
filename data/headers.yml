@@ -1,16 +1,7 @@
 - item: 首页
-  icon: fa fa-home
+  icon: 宸墨嵐
   link: "./"
 
 - item: 作者
-  icon: fa fa-book
-  link: https://weiyan.cc/
-
-- item: 关于
-  icon: fa fa-cog
-  link: ""
-  list:
-    - name: 教程
-      url: https://github.com/shenweiyan/Knowledge-Garden/discussions/10
-    - name: 源码
-      url: https://github.com/shenweiyan/WebStack-Demo
+  icon: 宸墨嵐
+  link: https://usertlm.top/
